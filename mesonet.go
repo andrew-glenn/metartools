@@ -2,7 +2,7 @@ package metartools
 
 const KNOT_CONVERSION float32 = 1.15078
 
-type windDirectional string
+type WindDirectional string
 
 const (
 	WIND_N   = "N"
